@@ -1,0 +1,44 @@
+{
+  "company_name": "AI Software Innovation Infotech And Hardware Enterprises",
+  "tagline": "Artificial Intelligence | Software Innovation | Infotech & Hardware",
+  "founder_ceo": {
+    "name": "Alex Rivera",
+    "title": "Founder & CEO",
+    "photo": "assets/ceo_placeholder.svg",
+    "bio": "Founder & CEO of AI Software Innovation Infotech And Hardware Enterprises. Visionary leader driving innovation in Artificial Intelligence, Software, Infotech and Hardware solutions.",
+    "email": "ceo@aisih-enterprises.com",
+    "mobile": "+1-555-0101"
+  },
+  "team_members": [
+    {
+      "name": "Priya Sharma",
+      "role": "CTO",
+      "photo": "assets/ceo_placeholder.svg",
+      "bio": "Expert in scalable AI architectures and agent orchestration."
+    },
+    {
+      "name": "Jordan Lee",
+      "role": "Head of AI Research",
+      "photo": "assets/ceo_placeholder.svg",
+      "bio": "Leading research on collaborative multi-agent systems."
+    },
+    {
+      "name": "Sam Patel",
+      "role": "Product Lead",
+      "photo": "assets/ceo_placeholder.svg",
+      "bio": "Focused on user experience and enterprise AI solutions."
+    }
+  ],
+  "head_office": {
+    "address": "42 Innovation Drive, Tech Park, San Francisco, CA 94105, USA",
+    "city": "San Francisco",
+    "country": "USA"
+  },
+  "contact": {
+    "helpline": "+1-800-AISIH-AI",
+    "support_email": "support@aisih-enterprises.com",
+    "website": "https://aisih-enterprises.com"
+  },
+  "about": "AI Software Innovation Infotech And Hardware Enterprises is a pioneering company specializing in Artificial Intelligence, Software Innovation, Infotech and Hardware solutions. Our flagship Multi-Agent Gateway enables parallel collaboration, intelligent aggregation, and enterprise-grade reliability inspired by modern API Gateway architectures.",
+  "logo": "assets/logo.svg"
+}

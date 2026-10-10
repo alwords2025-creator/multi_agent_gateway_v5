@@ -1,0 +1,26 @@
+{
+  "ceo": {
+    "password_hash": "b485ad3c1ee43f370adf916f79593cecb734ddabeed2c75480a2fc417911a7fe",
+    "role": "Founder & CEO",
+    "name": "Alex Rivera",
+    "full_access": true
+  },
+  "priya": {
+    "password_hash": "6981a51ab195ea7d3a688a8d1900c71f8b9bd0705d9a307d3c3db498147bbeb3",
+    "role": "CTO",
+    "name": "Priya Sharma",
+    "full_access": true
+  },
+  "jordan": {
+    "password_hash": "a9e65117958e09e6d1bfd5e24a97f5793b44eb5406fcca7a729b91c562bb8270",
+    "role": "Head of AI Research",
+    "name": "Jordan Lee",
+    "full_access": true
+  },
+  "sam": {
+    "password_hash": "b1cc5353a98839a7b97d62d3a37ece851af106458ceeb74347c023e1ad6f0fc6",
+    "role": "Product Lead",
+    "name": "Sam Patel",
+    "full_access": true
+  }
+}
